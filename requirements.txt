@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+huggingface_hub
+diffusers
+torch
+pillow
+python-dotenv
