@@ -5,3 +5,4 @@ diffusers
 torch
 pillow
 python-dotenv
+google-genai
